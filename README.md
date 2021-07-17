@@ -7,3 +7,4 @@
 .💬 Ask me about web development.<br>
 .📫 How to reach me: nitu4156@gmail.com.<br>
 ✨😃make a smile,this is the best therapy.<br>
+<img src="![Github stats](https://github-readme-stats.vercel.app/api?username=nituModi)color=black
