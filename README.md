@@ -1,9 +1,9 @@
 .### Hi there 👋,it's me Nitu.
 
-🤷‍♀️ I’m currently working on coding my skills.
-.🌱 I’m currently making my hand dirty in data structure.
-.👯 I’m looking to collaborate on web dev projects.
-.🤔 I’m looking for help with uderstanding coding approach.
-.💬 Ask me about web development.
-.📫 How to reach me: nitu4156@gmail.com.
-✨😃make a smile,this is the best therapy
+🤷‍♀️ I’m currently working on coding my skills.<br>
+.🌱 I’m currently making my hand dirty in data structure.<br>
+.👯 I’m looking to collaborate on web dev projects.<br>
+.🤔 I’m looking for help with uderstanding coding approach.<br>
+.💬 Ask me about web development.<br>
+.📫 How to reach me: nitu4156@gmail.com.<br>
+✨😃make a smile,this is the best therapy.<br>
